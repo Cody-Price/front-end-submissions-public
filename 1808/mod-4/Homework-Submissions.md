@@ -28,7 +28,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Cody Price
 
-* [Node Server Tutorial]() - add a link to your repo here
+* [Node Server Tutorial]() - [Cody's Node Server Tutorial](https://github.com/Cody-Price/node-server-tutorial)
 * [Express Tutorial]() - What additional items did you work on? List the exercises here
 * [Promise Practice Exercises]() - add a link to your repo here
 
